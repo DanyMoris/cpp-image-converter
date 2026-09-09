@@ -1,0 +1,28 @@
+# Build output
+build/
+debug/
+out/
+cmake-build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Binaries and intermediates
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.exe
+
+# Editors
+.vscode/
+.idea/
+
+# Local-only, not part of the submission
+Image_lib/
+resources/
+Task.txt
